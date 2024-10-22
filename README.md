@@ -1,2 +1,2 @@
 # POO
-The project is a Roguelike game developed in Java. Players control a hero through rooms, battling enemies and collecting items in a turn-based format. It highlights OOP principles such as inheritance, interfaces, and modularization, with features like health tracking, item management, and level progression
+The project involves creating a Roguelike game using Java, where players control a hero through multiple rooms, fighting enemies and collecting items. The game is turn-based, and features include item management, health tracking, and progression through levels. The project emphasizes key object-oriented programming (OOP) concepts like inheritance, interfaces, and modularization
